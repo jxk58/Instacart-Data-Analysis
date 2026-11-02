@@ -436,7 +436,7 @@ For example:
 
 The analysis suggests organizing the store around **customer purchasing relationships**, rather than relying exclusively on traditional product categorization.
 
-```text
+```
                                       BACK OF STORE
 ┌─────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                                             │
@@ -528,7 +528,7 @@ The analysis suggests organizing the store around **customer purchasing relation
 └─────────────────────────────────────────────────────────────────────────────────────────────┘
                                        FRONT / ENTRANCE
 
-```text
+```
 
 This is a **conceptual recommendation**, not a claim that the analysis proves a single optimal floorplan.
 
