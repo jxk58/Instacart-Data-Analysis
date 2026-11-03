@@ -78,6 +78,8 @@ Primary datasets:
 * `order_products__prior.csv`
 * `order_products__train.csv`
 
+![Table Schematics](Excalidraw/Table_Schematics.png)
+
 A combined `user_products` table was created containing:
 
 ```text
