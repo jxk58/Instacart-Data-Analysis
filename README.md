@@ -647,6 +647,37 @@ instacart-market-basket-analysis/
 
 ---
 
+# Appendix: Project Visuals
+
+## A. Project Planning
+
+![Project Planning](Excalidraw/Project_Planning.png)
+
+An initial project blueprint outlining the project's objectives, goals, and analytical approach. Includes table schematics, planned data relationships, key questions to investigate, and the interactive visualizations intended to communicate findings. This document mapped out the project from its initial concept through the planned analysis and deliverables.
+
+
+## B. Product Performance
+
+![Product Performance](Excalidraw/Product_Performance.png)
+
+Analysis of product and department purchase performance, highlighting the top 20 products by purchase frequency, highest- and lowest-performing products, and department-level rankings. Includes visual comparisons of purchase volume and each product's contribution to overall purchases.
+
+
+## C. Analysis Result Tables
+
+![Analysis Result Tables](Excalidraw/Analysis_Result_Tables.png)
+
+A consolidated collection of results from the Python exploratory data analysis, organizing key product and purchasing metrics into tables. Includes top products and their reorder rates, rankings by department and aisle, and top 20 products, aisles, and departments by purchase frequency. Provides a tabular reference for comparing product performance and purchasing trends across categories.
+
+
+## D. Co-Purchase Basket Analysis
+
+![Co-Purchase Basket Analysis](Excalidraw/Co_Purchase_Basket_Analysis.png)
+
+Results of market basket analysis using the top 600 products by purchase frequency. Examines product associations and co-purchasing patterns using lift to identify frequently purchased product combinations and potential cross-selling opportunities.
+
+
+---
 
 Data Analytics Portfolio Project
 
