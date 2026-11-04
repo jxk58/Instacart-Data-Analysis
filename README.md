@@ -620,11 +620,6 @@ Potential next steps include:
 ```text
 instacart-market-basket-analysis/
 │
-├── notebooks/
-│   ├── 01_Instacart_Data_Analysis_Initial_Data_Validation.ipynb
-│   ├── 02_Instacart_Data_Analysis_Basket_Analysis.ipynb
-│   └── 03_Instacart_Data_Analysis_Basket_Analysis.ipynb
-│
 ├── excalidraw/
 │   ├── analysis_result_tables/
 │   ├── co_purchase_basket_analysis/
@@ -632,8 +627,12 @@ instacart-market-basket-analysis/
 │   ├── project_planning/
 │   └── table_schematics/
 │
-├── README.md
-└── requirements.txt
+├── notebooks/
+│   ├── 01_Instacart_Data_Analysis_Initial_Data_Validation.ipynb
+│   ├── 02_Instacart_Data_Analysis_Basket_Analysis.ipynb
+│   └── 03_Instacart_Data_Analysis_Basket_Analysis.ipynb
+│
+└── README.md
 ```
 
 ---
