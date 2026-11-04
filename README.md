@@ -621,9 +621,9 @@ Potential next steps include:
 instacart-market-basket-analysis/
 │
 ├── notebooks/
-│   ├── 01_initial_data_validation.ipynb
-│   ├── 02_reordered_products.ipynb
-│   └── 03_basket_analysis.ipynb
+│   ├── 01_Instacart_Data_Analysis_Initial_Data_Validation.ipynb
+│   ├── 02_Instacart_Data_Analysis_Basket_Analysis.ipynb
+│   └── 03_Instacart_Data_Analysis_Basket_Analysis.ipynb
 │
 ├── excalidraw/
 │   ├── analysis_result_tables/
@@ -631,15 +631,6 @@ instacart-market-basket-analysis/
 │   ├── product_performance/
 │   ├── project_planning/
 │   └── table_schematics/
-│
-├── images/
-│   ├── top_products.png
-│   ├── department_purchases.png
-│   ├── aisle_purchases.png
-│   ├── department_copurchases.png
-│   ├── product_lift.png
-│   ├── reorder_rate.png
-│   └── shopping_activity.png
 │
 ├── README.md
 └── requirements.txt
